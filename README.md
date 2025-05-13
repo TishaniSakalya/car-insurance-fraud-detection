@@ -8,7 +8,7 @@ This project aims to detect fraudulent car insurance claims using machine learni
 - Compare model performance 
 
 ## 🛠️ Tools & Techniques
-- R, Python
+- R
 - Handling Imbalance: SMOTE, ROSE, Undersampling, Oversampling
 - Models: Logistic Regression, SVM, Classification Tree, XG Boost, Random Forest
 - Hyperparameter Tuning Methods: GridSearch with Cross Validation, Bayesian Optimization
@@ -16,7 +16,7 @@ This project aims to detect fraudulent car insurance claims using machine learni
 - Model Interpretation:  Partial Dependence Plots
 
 ## 📁 Project Structure
-- `/code/` – All R and Python codes for preprocessing, modeling, and evaluation
+- `/code/` – All R codes for preprocessing, modeling, and evaluation
 - `/report/` – PDF report and presentation slides
 - `/data/` – Includes the dataset
 
