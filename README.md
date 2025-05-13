@@ -7,7 +7,7 @@ This project aims to detect fraudulent car insurance claims using machine learni
 - Handle class imbalance using SMOTE and alternative resampling techniques
 - Compare model performance 
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Techniques
 - R, Python
 - Handling Imbalance: SMOTE, ROSE, Undersampling, Oversampling
 - Models: Logistic Regression, SVM, Classification Tree, XG Boost, Random Forest
